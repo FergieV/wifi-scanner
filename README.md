@@ -2,8 +2,6 @@
 
 A Windows-based WiFi network scanner with a beautiful dark mode HTML report generator.
 
-![WiFi Scanner Screenshot](screenshot.png)
-
 ## Features
 
 - Scans for nearby WiFi networks on Windows
